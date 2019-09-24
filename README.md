@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to download and install
+Download from GitHub as usual
+Then run `npm install` from the root folder. It will crate the `node_modules` folder
+
 ## Tools that might be of help
 [Connect two React component with an arrow](https://github.com/pierpo/react-archer)
 
