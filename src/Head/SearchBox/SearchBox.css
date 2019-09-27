@@ -1,0 +1,6 @@
+.SearchBox {
+   width : 80vw;
+   height: calc(40px + 5vmin);
+   border-color: darkslategrey;
+   border-radius: 1vmin;
+ }
